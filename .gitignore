@@ -1,0 +1,5 @@
+files/*
+dummy/*
+vendor/*
+.idea
+.vscode
